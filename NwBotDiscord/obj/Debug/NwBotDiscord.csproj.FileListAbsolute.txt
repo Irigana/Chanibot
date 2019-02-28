@@ -1,0 +1,95 @@
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.csprojResolveAssemblyReference.cache
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.csproj.CoreCompileInputs.cache
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\SystemLang\Alerts.json
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.exe.config
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.exe
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.pdb
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Commands.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Core.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rest.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rpc.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Webhook.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Newtonsoft.Json.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.AppContext.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Collections.Immutable.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Console.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Globalization.Calendars.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Interactive.Async.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.Compression.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.FileSystem.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Net.Http.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Net.Sockets.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Commands.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Core.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rest.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rpc.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Webhook.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\Newtonsoft.Json.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Collections.Immutable.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\bin\Debug\System.Interactive.Async.xml
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.exe
+D:\Phil\visual studio applications\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.pdb
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.exe.config
+A:\dev\C#\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.exe
+A:\dev\C#\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.pdb
+A:\dev\C#\NwBotDiscord\NwBotDiscord\obj\Debug\NwBotDiscord.csprojResolveAssemblyReference.cache
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\SystemLang\Alerts.json
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.exe
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\NwBotDiscord.pdb
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Commands.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Core.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rest.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rpc.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Webhook.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.WebSocket.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Newtonsoft.Json.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.AppContext.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Collections.Immutable.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Console.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Globalization.Calendars.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Interactive.Async.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.Compression.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.FileSystem.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Net.Http.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Net.Sockets.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Xml.ReaderWriter.dll
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Commands.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Core.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rest.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Rpc.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.Webhook.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Discord.Net.WebSocket.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\Newtonsoft.Json.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Collections.Immutable.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\dev\C#\NwBotDiscord\NwBotDiscord\bin\Debug\System.Interactive.Async.xml
